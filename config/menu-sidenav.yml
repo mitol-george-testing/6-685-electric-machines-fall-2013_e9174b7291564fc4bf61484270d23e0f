@@ -6,3 +6,7 @@ menu:
   - identifier: 9d5aaec4-4af1-5946-52e0-135475347803
     name: problem set 2
     weight: 10
+  - identifier: 64bf1faf-0a97-3d96-0733-4321dd252794
+    name: steel data
+    parent: 9f694568-321d-7156-74a4-e1200370f38c
+    weight: 0
