@@ -1,2 +1,5 @@
 menu:
-  mainmenu: []
+  mainmenu:
+  - identifier: 9f694568-321d-7156-74a4-e1200370f38c
+    name: problem set 3
+    weight: 0
