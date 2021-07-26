@@ -3,3 +3,6 @@ menu:
   - identifier: 9f694568-321d-7156-74a4-e1200370f38c
     name: problem set 3
     weight: 0
+  - identifier: 9d5aaec4-4af1-5946-52e0-135475347803
+    name: problem set 2
+    weight: 10
